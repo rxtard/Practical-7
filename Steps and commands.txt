@@ -1,8 +1,10 @@
-Connection:
-TM 1637 Board Pin	RPi Pin
-GND			6
-VCC			2
-IN1			22
+PRACTICAL NO: 07
+Aim: IOT base Web Controlled Home Automation using Raspberry Pi.
+•Connection scheme Raspberry Pi
+TM1637 board pin	RPi Pin
+GND			        6
+VCC			        2
+IN1			        22
 
 Step1: Setup
 Step2: Write Python code
